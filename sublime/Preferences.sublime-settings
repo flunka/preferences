@@ -1,0 +1,12 @@
+{
+	"color_scheme": "Packages/Monokai Dark/Monokai Dark.tmTheme",
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"theme": "Material-Theme-Darker.sublime-theme",
+
+	"translate_tabs_to_spaces": false,
+	"word_wrap": "auto",
+
+}
