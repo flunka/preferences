@@ -6,11 +6,17 @@
 	"installed_packages":
 	[
 		"Anaconda",
+		"Babel",
+		"Babel Snippets",
 		"BracketHighlighter",
+		"Emmet",
 		"FileIcons",
+		"GithubEmoji",
 		"Material Theme",
 		"Monokai Dark",
 		"Package Control",
-		"SideBarEnhancements"
+		"PackageResourceViewer",
+		"SideBarEnhancements",
+		"Six - Future JavaScript Syntax"
 	]
 }
